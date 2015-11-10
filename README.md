@@ -1,5 +1,5 @@
 Mocker
-======yy
+======yyxx
 
 ###1. Opis aplikacji 
 Celem aplikacji jest umo¿liwienie u¿ytkownikom na wygenerowanie linków do wczeœniej przygotowanych danych np. json czy xml. Dziêki aplikacji mo¿liwe bêdzie przygotowanie ró¿nych odpowiedzi serwera i przetestowanie ich zarówno przez klientów mobilnych jak i inne serwery.
